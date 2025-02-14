@@ -1,0 +1,25 @@
+developer@ccfl1-pc1:~/vaish$ mkdir D1
+
+developer@ccfl1-pc1:~/vaish$ cd D1
+developer@ccfl1-pc1:~/vaish/D1$ mkdir D11
+developer@ccfl1-pc1:~/vaish/D1$ mkdir D12
+developer@ccfl1-pc1:~/vaish/D1$ mkdir D13
+developer@ccfl1-pc1:~/vaish/D1$ mkdir D14
+developer@ccfl1-pc1:~/vaish/D1$ cd D11
+developer@ccfl1-pc1:~/vaish/D1/D11$ touch F1
+developer@ccfl1-pc1:~/vaish/D1/D11$ touch F2
+developer@ccfl1-pc1:~/vaish/D1/D11$ touch F3
+developer@ccfl1-pc1:~/vaish/D1/D11$ cd ..
+developer@ccfl1-pc1:~/vaish/D1$ cd D12
+developer@ccfl1-pc1:~/vaish/D1/D12$ touch F4
+developer@ccfl1-pc1:~/vaish/D1/D12$ cd ..
+developer@ccfl1-pc1:~/vaish/D1$ cd D13
+developer@ccfl1-pc1:~/vaish/D1/D13$ touch F5
+developer@ccfl1-pc1:~/vaish/D1/D13$ touch F6
+developer@ccfl1-pc1:~/vaish/D1/D13$ cd ..
+developer@ccfl1-pc1:~/vaish/D1$ cd D14
+developer@ccfl1-pc1:~/vaish/D1/D14$ touch F7
+developer@ccfl1-pc1:~/vaish/D1/D14$ touch F8
+developer@ccfl1-pc1:~/vaish/D1/D14$ touch F9
+
+
